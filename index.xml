@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to alexbakertech on alexbakertech</title><link>https://alexbakertech.com/</link><description>Recent content in Welcome to alexbakertech on alexbakertech</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://alexbakertech.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://alexbakertech.com/posts/first-post/</link><pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/posts/first-post/</guid><description>&lt;p>This is my first post using Hugo + GitHub only!&lt;/p></description></item><item><title>About</title><link>https://alexbakertech.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/about/</guid><description>&lt;div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 2rem;">
-&lt;img src="https://alexbakertech.com/about.png" alt="Alex Baker headshot"
-style="width: 160px; border-radius: 50%; box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);" />
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to alexbakertech on alexbakertech</title><link>https://alexbakertech.com/</link><description>Recent content in Welcome to alexbakertech on alexbakertech</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://alexbakertech.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://alexbakertech.com/posts/first-post/</link><pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/posts/first-post/</guid><description>&lt;p>This is my first post using Hugo + GitHub only!&lt;/p></description></item><item><title>About</title><link>https://alexbakertech.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/about/</guid><description>&lt;div class="about-wrapper">
+&lt;img src="https://alexbakertech.com/about.png" alt="Alex Baker headshot" />
 &lt;div>
 &lt;h2 style="margin: 0;">Hi, I’m Alex Baker&lt;/h2>
 &lt;p style="margin: 0.5rem 0 0;">
@@ -8,7 +7,16 @@ I’m an IT specialist, infrastructure technician, and lifelong computer tinkere
 &lt;/p>
 &lt;/div>
 &lt;/div>
-&lt;p>&lt;strong>alexbakertech&lt;/strong> is my personal project space — a place to document, share, and refine the tools and practices I use in my day-to-day technical life. It serves as both a portfolio and a playground.&lt;/p></description></item><item><title>Architecture</title><link>https://alexbakertech.com/projects/secure-home-lab/architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/secure-home-lab/architecture/</guid><description>&lt;h2 id="network-layout">Network Layout&lt;/h2>
+&lt;p>&lt;strong>alexbakertech&lt;/strong> is my personal project space — a place to document, share, and refine the tools and practices I use in my day-to-day technical life. It serves as both a portfolio and a playground.&lt;/p>
+&lt;h3 id="areas-of-focus">Areas of focus&lt;/h3>
+&lt;ul>
+&lt;li>🔧 Infrastructure as Code (Ansible, Terraform)&lt;/li>
+&lt;li>🔐 Security-conscious automation&lt;/li>
+&lt;li>🏠 Homelab design &amp;amp; network resilience&lt;/li>
+&lt;li>☁️ Cloud-native workflows &amp;amp; observability&lt;/li>
+&lt;li>🛠️ Documentation-first engineering&lt;/li>
+&lt;/ul>
+&lt;p>I value simplicity, transparency, and pragmatic engineering — building things that work &lt;em>and&lt;/em> last.&lt;/p></description></item><item><title>Architecture</title><link>https://alexbakertech.com/projects/secure-home-lab/architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/secure-home-lab/architecture/</guid><description>&lt;h2 id="network-layout">Network Layout&lt;/h2>
 &lt;p>The lab is segmented into management, services, and guest networks using VLANs and static routes.&lt;/p>
 &lt;h3 id="components">Components&lt;/h3>
 &lt;ul>
