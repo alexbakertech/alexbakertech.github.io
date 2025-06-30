@@ -1,3 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to alexbakertech on alexbakertech</title><link>https://alexbakertech.com/</link><description>Recent content in Welcome to alexbakertech on alexbakertech</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://alexbakertech.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://alexbakertech.com/posts/first-post/</link><pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/posts/first-post/</guid><description>&lt;p>This is my first post using Hugo + GitHub only!&lt;/p></description></item><item><title>About</title><link>https://alexbakertech.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/about/</guid><description>&lt;h2 id="hi-im-alex-baker">Hi, I’m Alex Baker&lt;/h2>
 &lt;p>I’m an IT specialist, infrastructure technician, and lifelong computer tinkerer currently in Virginia. I’ve worked across public sector agencies and private firms, building secure, scalable systems that prioritize automation, reliability, and clarity.&lt;/p>
-&lt;p>&lt;strong>alexbakertech&lt;/strong> is my personal project space — a place to document, share, and refine the tools and practices I use in my day-to-day technical life. It serves as both a portfolio and a playground.&lt;/p></description></item></channel></rss>
+&lt;p>&lt;strong>alexbakertech&lt;/strong> is my personal project space — a place to document, share, and refine the tools and practices I use in my day-to-day technical life. It serves as both a portfolio and a playground.&lt;/p></description></item><item><title>Architecture</title><link>https://alexbakertech.com/posts/projects/secure-home-lab/architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/posts/projects/secure-home-lab/architecture/</guid><description>&lt;h2 id="network-layout">Network Layout&lt;/h2>
+&lt;p>The lab is segmented into management, services, and guest networks using VLANs and static routes.&lt;/p>
+&lt;h3 id="components">Components&lt;/h3>
+&lt;ul>
+&lt;li>pfSense&lt;/li>
+&lt;li>Proxmox&lt;/li>
+&lt;li>Managed switch&lt;/li>
+&lt;li>Dedicated firewall VM&lt;/li>
+&lt;/ul>
+&lt;h3 id="goals">Goals&lt;/h3>
+&lt;ul>
+&lt;li>Reduce attack surface&lt;/li>
+&lt;li>Isolate workloads&lt;/li>
+&lt;li>Enable controlled remote access&lt;/li>
+&lt;/ul></description></item><item><title>Automation</title><link>https://alexbakertech.com/posts/projects/secure-home-lab/automation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/posts/projects/secure-home-lab/automation/</guid><description>&lt;h2 id="tools-used">Tools Used&lt;/h2>
+&lt;ul>
+&lt;li>Ansible for provisioning&lt;/li>
+&lt;li>Terraform for future expansion&lt;/li>
+&lt;li>Cron jobs for self-healing tasks&lt;/li>
+&lt;/ul>
+&lt;h2 id="example-tasks">Example Tasks&lt;/h2>
+&lt;ul>
+&lt;li>Auto-updates&lt;/li>
+&lt;li>Daily snapshot backups&lt;/li>
+&lt;li>Configuration drift detection&lt;/li>
+&lt;/ul></description></item></channel></rss>
