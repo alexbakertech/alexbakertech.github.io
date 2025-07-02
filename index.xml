@@ -16,32 +16,7 @@ I’m an IT specialist, infrastructure technician, and lifelong computer tinkere
 &lt;li>☁️ Cloud-native workflows &amp;amp; observability&lt;/li>
 &lt;li>🛠️ Documentation-first engineering&lt;/li>
 &lt;/ul>
-&lt;p>I value simplicity, transparency, and pragmatic engineering — building things that work &lt;em>and&lt;/em> last.&lt;/p></description></item><item><title>Architecture</title><link>https://alexbakertech.com/projects/secure-home-lab/architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/secure-home-lab/architecture/</guid><description>&lt;h2 id="network-layout">Network Layout&lt;/h2>
-&lt;p>The lab is segmented into management, services, and guest networks using VLANs and static routes.&lt;/p>
-&lt;h3 id="components">Components&lt;/h3>
-&lt;ul>
-&lt;li>pfSense&lt;/li>
-&lt;li>Proxmox&lt;/li>
-&lt;li>Managed switch&lt;/li>
-&lt;li>Dedicated firewall VM&lt;/li>
-&lt;/ul>
-&lt;h3 id="goals">Goals&lt;/h3>
-&lt;ul>
-&lt;li>Reduce attack surface&lt;/li>
-&lt;li>Isolate workloads&lt;/li>
-&lt;li>Enable controlled remote access&lt;/li>
-&lt;/ul></description></item><item><title>Automation</title><link>https://alexbakertech.com/projects/secure-home-lab/automation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/secure-home-lab/automation/</guid><description>&lt;h2 id="tools-used">Tools Used&lt;/h2>
-&lt;ul>
-&lt;li>Ansible for provisioning&lt;/li>
-&lt;li>Terraform for future expansion&lt;/li>
-&lt;li>Cron jobs for self-healing tasks&lt;/li>
-&lt;/ul>
-&lt;h2 id="example-tasks">Example Tasks&lt;/h2>
-&lt;ul>
-&lt;li>Auto-updates&lt;/li>
-&lt;li>Daily snapshot backups&lt;/li>
-&lt;li>Configuration drift detection&lt;/li>
-&lt;/ul></description></item><item><title>Contact</title><link>https://alexbakertech.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/contact/</guid><description>&lt;h2 id="get-in-touch">Get in Touch&lt;/h2>
+&lt;p>I value simplicity, transparency, and pragmatic engineering — building things that work &lt;em>and&lt;/em> last.&lt;/p></description></item><item><title>Contact</title><link>https://alexbakertech.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/contact/</guid><description>&lt;h2 id="get-in-touch">Get in Touch&lt;/h2>
 &lt;p>Thanks for wanting to reach out! I dont quite have public facing contact info yet, so check back later.&lt;/p>
 &lt;!--If you’d like to reach out for collaboration, questions, or just to connect, feel free to email me directly.
 📧 &lt;a href="mailto:alex@alexbakertech.com">alex@alexbakertech.com&lt;/a>-->
@@ -50,4 +25,4 @@ I’m an IT specialist, infrastructure technician, and lifelong computer tinkere
 &lt;li>&lt;a href="https://github.com/alexbakertech">GitHub&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://linkedin.com/in/alexander-james-baker">LinkedIn&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://youtube.com/@alexbakertech">Youtube&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Content Structure</title><link>https://alexbakertech.com/projects/alexbakertech-site/structure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/structure/</guid><description>How the alexbakertech.com site is organized using Hugo’s content types and PaperMod conventions</description></item><item><title>Deployment Pipeline</title><link>https://alexbakertech.com/projects/alexbakertech-site/deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/deployment/</guid><description>How alexbakertech.com is built and deployed using GitHub Actions and a separate Pages repo</description></item><item><title>Metadata and Open Graph</title><link>https://alexbakertech.com/projects/alexbakertech-site/meta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/meta/</guid><description>How alexbakertech.com manages site metadata for social cards, search engines, and browser previews</description></item><item><title>Template Overrides</title><link>https://alexbakertech.com/projects/alexbakertech-site/overrides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/overrides/</guid><description>Custom layouts and partials used to extend PaperMod functionality on alexbakertech.com</description></item><item><title>Theme Customization</title><link>https://alexbakertech.com/projects/alexbakertech-site/theme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/theme/</guid><description>How the alexbakertech.com site customizes PaperMod to match its branding, layout, and UX preferences</description></item></channel></rss>
+&lt;/ul></description></item><item><title>Content Structure</title><link>https://alexbakertech.com/projects/alexbakertech-site/structure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/structure/</guid><description>How the alexbakertech.com site is organized using Hugo’s content types and PaperMod conventions</description></item><item><title>Deployment Pipeline</title><link>https://alexbakertech.com/projects/alexbakertech-site/deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/deployment/</guid><description>How alexbakertech.com is built and deployed using GitHub Actions and a separate Pages repo</description></item><item><title>Metadata and Open Graph</title><link>https://alexbakertech.com/projects/alexbakertech-site/meta/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/meta/</guid><description>How alexbakertech.com manages site metadata for social cards, search engines, and browser previews</description></item><item><title>Reusable Hugo Blueprint</title><link>https://alexbakertech.com/projects/alexbakertech-site/blueprint/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/blueprint/</guid><description>How to reuse the structure of alexbakertech.com for future Hugo projects with content bundles, TOC, and GitHub deployment</description></item><item><title>Template Overrides</title><link>https://alexbakertech.com/projects/alexbakertech-site/overrides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/overrides/</guid><description>Custom layouts and partials used to extend PaperMod functionality on alexbakertech.com</description></item><item><title>Theme Customization</title><link>https://alexbakertech.com/projects/alexbakertech-site/theme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://alexbakertech.com/projects/alexbakertech-site/theme/</guid><description>How the alexbakertech.com site customizes PaperMod to match its branding, layout, and UX preferences</description></item></channel></rss>
